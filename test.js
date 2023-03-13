@@ -20,3 +20,10 @@
     }
     return a / b;
   }
+
+
+const firstName = "Tee";
+const location = "Phuket";
+const hobby = "playing basketball";
+
+console.log("Hi, my name is " + firstName + ". I live in " + location + " and enjoy " + hobby + ".");
